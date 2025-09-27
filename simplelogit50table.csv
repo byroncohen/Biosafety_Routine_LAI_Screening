@@ -1,0 +1,5 @@
+"","Odds Ratios","Lower Bound 95% CI","Upper Bound 95% CI","Z-Score","P-Value"
+"Intercept",0.377,0.367,0.386,-76.291,"<0.001"
+"Frequency",0.8,0.796,0.805,-82.124,"<0.001"
+"Sensitivity",0.99,0.989,0.99,-29.97,"<0.001"
+"Isolation Delay",1.155,1.143,1.168,27.05,"<0.001"

@@ -1,0 +1,14 @@
+,V1,V2,V3,V4,V5,V6,V7,V8
+Tests Per Week,0,1,2,3,4,5,6,7
+OR with Avg Isolation Delay of 0 Days,1,0.757,0.573,0.434,0.328,0.249,0.188,0.142
+Lower Bound 95% CI OR with Avg Isolation Delay of 0 Days,1,0.749,0.561,0.42,0.315,0.236,0.177,0.132
+Upper Bound 95% CI OR with Avg Isolation Delay of 0 Days,1,0.764,0.584,0.446,0.341,0.26,0.199,0.152
+OR with Avg Isolation Delay of 1 Day,1,0.782,0.611,0.478,0.374,0.292,0.229,0.179
+Lower Bound 95% CI OR with Avg Isolation Delay of 1 Day,1,0.77,0.593,0.456,0.351,0.271,0.208,0.16
+Upper Bound 95% CI OR with Avg Isolation Delay of 1 Day,1,0.793,0.629,0.499,0.396,0.314,0.249,0.197
+OR with Avg Isolation Delay of 2 Days,1,0.808,0.653,0.527,0.426,0.344,0.278,0.224
+Lower Bound 95% CI OR with Avg Isolation Delay of 2 Days,1,0.792,0.627,0.496,0.393,0.311,0.246,0.195
+Upper Bound 95% CI OR with Avg Isolation Delay of 2 Days,1,0.823,0.678,0.558,0.459,0.378,0.311,0.256
+OR with Avg Isolation Delay of 3 Days,1,0.834,0.696,0.581,0.485,0.405,0.338,0.282
+Lower Bound 95% CI OR with Avg Isolation Delay of 3 Days,1,0.814,0.662,0.539,0.438,0.357,0.29,0.236
+Upper Bound 95% CI OR with Avg Isolation Delay of 3 Days,1,0.854,0.73,0.624,0.533,0.455,0.389,0.333

@@ -1,0 +1,9 @@
+Tests Per Week,OR with Avg Isolation Delay of 0 Days,OR with Avg Isolation Delay of 1 Day,OR with Avg Isolation Delay of 2 Days,OR with Avg Isolation Delay of 3 Days
+0,1,1,1,1
+1,0.76,0.78,0.81,0.83
+2,0.57,0.59,0.61,0.63
+3,0.43,0.45,0.46,0.48
+4,0.33,0.34,0.35,0.36
+5,0.25,0.26,0.27,0.27
+6,0.19,0.19,0.2,0.21
+7,0.14,0.15,0.15,0.16
